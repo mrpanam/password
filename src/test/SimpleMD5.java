@@ -6,6 +6,7 @@ import java.security.NoSuchAlgorithmException;
 public class SimpleMD5 {
 
 	public static void main(String[] args) {
+		// test
 		String String1 = hash();
 		String String2 = hash2();
 		if (String1.equals(String2)) {
